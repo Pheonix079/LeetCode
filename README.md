@@ -1,7 +1,4 @@
-Hi
-<br> basic readme
-<br>
-Hitesh Kumar
+LEET CODE QUESTIONS
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
